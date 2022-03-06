@@ -22,6 +22,6 @@ ETL DATA FLOW–
 ![](Images/DAG.PNG)
 
 **Dashboard - Tableau:**
-
+[Link](https://public.tableau.com/app/profile/ruben.alvarez5750/viz/Apartments_com/Dashboard)
 
 ![](Images/Dashboard.PNG)
