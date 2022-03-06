@@ -20,7 +20,7 @@ DAG and Airflow Operators:
 3.	For the first time we will create the tables with constraints and keys using Postgres Operator.
 4.	Then transform the CSV files and load the data to Postgres.
 
-
+![](Images/DAG.PNG)
 
 Dashboard - Tableau: 
  
