@@ -23,4 +23,5 @@ DAG and Airflow Operators:
 ![](Images/DAG.PNG)
 
 Dashboard - Tableau: 
- 
+
+![](Images/Dashboard.PNG)
