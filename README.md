@@ -9,7 +9,7 @@ ETL DATA FLOW–
 3.	Then the raw data is processed and uploaded to multiple tables in Postgres Database.
 4.	Finally, the data is analyzed and visualized in tableau. 
  
-
+![](Images/Project.png)
 
 
 DAG and Airflow Operators: 
