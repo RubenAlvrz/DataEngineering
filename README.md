@@ -1,7 +1,7 @@
 **APARTMENTS.COM - HOUSTON,TX**
 
 DESCRIPTION:
-Tracking and analyzing the apartment prices in Houston, TX by creating a Datawarehouse hosted in PostgreSQL and running Airflow in Docker for orchestration. Finally, visualized the information in Tableau to see the information.
+Tracking and analyzing the apartment prices in Houston, TX by creating a Datawarehouse hosted in PostgreSQL and running Airflow in Docker for orchestration. Finally, visualized the information in Tableau to see the trends.
 
 ETL DATA FLOW–
 1.	Houston Apartment data is collected from the [Apartment.com](https://www.apartments.com/houston-tx/) website by using python library beautifulsoup.
