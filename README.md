@@ -16,7 +16,7 @@ ETL DATA FLOW–
 1.	Extract all the apartment information located in Houston, TX by using the Python Operator.
 2.	From the apartment file, we will read URLS to extract the location and unit information of each apartment complex. 
     (Please note some apartments do not provide unit information.)
-3.	For the first time we will create the tables with constraints and keys using Postgres Operator.
+3.	Create tables with constraints and keys using Postgres Operator.
 4.	Then transform the CSV files and load the data to Postgres.
 
 ![](Images/DAG.PNG)
